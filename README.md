@@ -29,6 +29,9 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="100"/>
     </td>
+    <td>
+      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="100"/>
+    </td>
   </tr>
 </table>
 
@@ -54,8 +57,27 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
   </tr>
 </table>
 
+## Experiencia Laboral 💼
 
+### Direccion de Sistemas Informaticos (IPN)- Febrero 2023 a Enero 2024 
 
+En la DSI, contribuí con soluciones innovadoras, utilizando tecnologías de última generación para mejorar diversos módulos en sistemas como SIG@ e INTRANET SIG@. Mi enfoque siempre ha sido brindar una experiencia excepcional a los usuarios.
 
+## Educacion 🎓
+- Ingeniero en Sistemas Computacionales
+  - Escuela Superior de Cómputo -IPN
+  - Graduación en 2023
+  - En proceso de Titulacion
+
+## Certificaciones 🌟
+- Scrum Fundamentals Certified (SFC)
+  - SCRUMstudy - Accreditation Body for Scrum and Agile
+  - Junio - 2024
+  - 
+
+## Conectemos 🤝
+¡Me encantaría conectar contigo y discutir cómo puedo aportar a tu equipo y proyectos! No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/jesus-octavio-alvarez-carmona-358918300).
+
+¡Gracias por tu tiempo y espero tener la oportunidad de colaborar juntos! 🚀
 
 
