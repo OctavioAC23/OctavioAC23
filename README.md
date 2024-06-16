@@ -19,8 +19,16 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 ### Frameworks
 
 ### Bases de Datos
-<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="200"/>
-<img src="https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp" alt="Oracle DataBase" width="200"/>
+<table>
+  <lu>
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="200"/>
+
+  </lu>
+  <lu>
+    <img src="https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp" alt="Oracle DataBase" width="200"/>
+  </lu>
+</table>
+
 
 
 
