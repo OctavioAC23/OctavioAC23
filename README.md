@@ -18,16 +18,16 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 <table>
   <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZJbhqxNeimCkKbolvoob4pdmMtdfsn8PqA&s" alt="JavaScript" width="200"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZJbhqxNeimCkKbolvoob4pdmMtdfsn8PqA&s" alt="JavaScript" width="100"/>
     </td>
     <td>
-      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="200"/>
+      <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="100"/>
     </td>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s" alt="Python" width="200"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s" alt="Python" width="100"/>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="200"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="100"/>
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 <table>
   <tr>
     <td>
-      <img src="https://miro.medium.com/v2/resize:fit:512/1*FKD2Uy_Q6r6AviZA2VD4RQ.png" alt="Angular" width="200"/>
+      <img src="https://miro.medium.com/v2/resize:fit:512/1*FKD2Uy_Q6r6AviZA2VD4RQ.png" alt="Angular" width="100"/>
     </td>
   </tr>
 </table>
@@ -46,10 +46,10 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 <table>
   <tr>
     <td>
-      <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="200"/>
+      <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" width="100"/>
     </td>
     <td>
-      <img src="https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp" alt="Oracle DataBase"width="200"/>
+      <img src="https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp" alt="Oracle DataBase"width="100"/>
     </td>
   </tr>
 </table>
