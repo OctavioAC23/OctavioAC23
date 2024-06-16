@@ -6,7 +6,7 @@ Soy Jesus Octavio Alvarez Carmona, un apasionado Ingeniero en Sistemas Computaci
 
 - Nombre: Jesus Octavio Alvarez Carmona
 - Correo Electronico: alvateztavo@gmail.com
-- LinkedIn: www.linkedin.com/in/jesus-octavio-alvarez-carmona-358918300
+- LinkedIn: [LinkedIn](www.linkedin.com/in/jesus-octavio-alvarez-carmona-358918300)
 
 ## Sobre Mi 🚀
 
