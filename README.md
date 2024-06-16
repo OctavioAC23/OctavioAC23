@@ -19,7 +19,8 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 ### Frameworks
 
 ### Bases de Datos
-![Oracle DataBase](https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp)
+![Oracle DataBase](https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp | width=200)
+
 
 
 
