@@ -73,7 +73,7 @@ En la DSI, contribuí con soluciones innovadoras, utilizando tecnologías de úl
 - Scrum Fundamentals Certified (SFC)
   - SCRUMstudy - Accreditation Body for Scrum and Agile
   - Junio - 2024
-  - 
+  - [Certificado](https://www.scrumstudy.com/certification/verify?type=SFC&number=1035227)
 
 ## Conectemos 🤝
 ¡Me encantaría conectar contigo y discutir cómo puedo aportar a tu equipo y proyectos! No dudes en contactarme a través de [LinkedIn](www.linkedin.com/in/jesus-octavio-alvarez-carmona-358918300).
