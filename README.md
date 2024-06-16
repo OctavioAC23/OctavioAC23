@@ -31,7 +31,16 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
     </td>
   </tr>
 </table>
+
 ### Frameworks
+
+<table>
+  <tr>
+    <td>
+      <img src="https://miro.medium.com/v2/resize:fit:512/1*FKD2Uy_Q6r6AviZA2VD4RQ.png" alt="Angular" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ### Bases de Datos
 <table>
