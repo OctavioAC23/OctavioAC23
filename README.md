@@ -18,13 +18,16 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 <table>
   <tr>
     <td>
-      <img src="https://multishoring.com/wp-content/uploads/2024/04/JavaScript-Symbol.png" alt="JavaScript" width="200"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQZJbhqxNeimCkKbolvoob4pdmMtdfsn8PqA&s" alt="JavaScript" width="200"/>
     </td>
     <td>
       <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="200"/>
     </td>
     <td>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s" alt="Python" width="200"/>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="200"/>
     </td>
   </tr>
 </table>
