@@ -5,7 +5,8 @@ Soy Jesus Octavio Alvarez Carmona, un apasionado Ingeniero en Sistemas Computaci
 ## Informacion Personal
 - Nombre: Jesus Octavio Alvarez Carmona
 - Correo Electronico: alvateztavo@gmail.com
-- Linkedln: 
+- LinkedIn: www.linkedin.com/in/jesus-octavio-alvarez-carmona-358918300
+
 <!--
 **OctavioAC23/OctavioAC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
