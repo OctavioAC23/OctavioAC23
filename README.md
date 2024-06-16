@@ -19,7 +19,7 @@ Hola, mi nombre es Octavio, soy un desarrollador Full Stack apasionado por dar v
 ### Frameworks
 
 ### Bases de Datos
-[https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp] https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp)
+[https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp](https://fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.webp)
 
 
 
